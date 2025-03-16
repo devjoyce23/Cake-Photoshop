@@ -1,0 +1,47 @@
+header{
+    text-align: center;
+   background-color:brown;
+   padding-bottom: 89px;
+   padding-top: 89x;
+}
+ a:hover{
+    color: blue;
+}
+a{
+    text-decoration: none;
+    padding-left: 16px;
+    padding-right: 16px;
+  text-align: center;
+  color:white;  
+  
+ 
+    
+}
+nav a{
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 10px;
+    padding-left: 10px;
+    display: block;
+}
+
+
+h1, h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+    
+} 
+
+footer{
+    text-align: center;
+    background-color: brown;
+    padding-bottom: 43px;
+    padding-top:43px;
+}
